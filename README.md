@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop" alt="Shayari App Banner" width="100%" height="300" style="object-fit: cover; border-radius: 10px;"/>
+  
 
   <h1>Shayari Application</h1>
   <p>A full-stack MERN application designed for sharing, managing, and discovering Shayaris (a form of poetry).</p>
